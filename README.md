@@ -1,1 +1,1 @@
-"# educative-solutions" 
+# educative-solutions
